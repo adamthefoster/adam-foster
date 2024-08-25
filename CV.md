@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# CV
+
 ## Education
 
 University of California, Los Angeles, CA
