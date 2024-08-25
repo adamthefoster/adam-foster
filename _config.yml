@@ -1,6 +1,6 @@
 title: Adam Foster
 description: Audiovisual Archives & Preservation
 logo: /assets/img/tvstaticfilm.png
-show_downloads: "false"
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
