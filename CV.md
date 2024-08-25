@@ -6,7 +6,8 @@ layout: default
 
 University of California, Los Angeles, CA
   
-_Masters of Library and Information Science, Media Archival Studies - June 2019_
+Masters of Library and Information Science, Media Archival Studies - June 2019
+
 
 
 University of California, Santa Cruz, CA
@@ -14,56 +15,69 @@ University of California, Santa Cruz, CA
 B.A. Film and Digital Media, Production Concentration - June 2012
 
 
+
 Chabot-Las Positas Community College, Livermore/Hayward, CA
 
 A.A. Liberal Arts - June 2010
 
+
+
+
 ​
 **Professional Experience** 
 
- 
-
-Academy Film Archive, Public Access Specialist, Los Angeles, CA, 2022 - Present
-
-​
-
-Academy Film Archive, Film Traffic Coordinator, Los Angeles, CA, 2019 - 2022
+Academy Film Archive, Public Access Specialist, Los Angeles, CA 
+2022 - Present
 
 ​
 
-Academy Film Archive, Film Preservation Intern, Los Angeles, CA, Jan - June 2019
+Academy Film Archive, Film Traffic Coordinator, Los Angeles, CA
+2019 - 2022
 
 ​
 
-Bob Baker Marionette Theater, Head Archivist, Los Angeles, CA, Sept 2017 - June 2019
+Academy Film Archive, Film Preservation Intern, Los Angeles, CA
+Jan - June 2019
 
 ​
 
-UCLA, GSE&IS Information Studies Lab, Lab Assistant III, Los Angeles, CA, Sept 2017 - June 2019
-
-
-
-UCLA Film & TV Archive, Collections Intern, Santa Clarita, CA, June - Dec 2018
-
-
-
-20th Century Fox, Archives Intern, Century City, CA, June - Aug 2018
+Bob Baker Marionette Theater, Head Archivist, Los Angeles, CA
+2017 - 2020
 
 ​
 
-Essanay Film Museum, Collections/Researcher, Niles, CA, Oct - Dec 2013 / June - Aug 2017
+UCLA, GSE&IS Information Studies Lab, Lab Assistant III, Los Angeles, CA
+Sept 2017 - June 2019
 
 
 
-Multicom Ent. Group, Project Media Inventory Asst., Los Angeles, CA, Sept. 2016 - March 2017
+UCLA Film & TV Archive, Collections Intern, Santa Clarita, CA
+June - Dec 2018
 
 
 
-Cole Video, Project Manager/Video Editor, Sonora, CA, Jan 2014 - July 2016
+20th Century Fox, Archives Intern, Century City, CA
+June - Aug 2018
 
 ​
 
-​Canyon Cinema, Film Inspection/Promotional Media Intern, San Francisco, CA, April - Dec 2013
+Essanay Film Museum, Collections/Researcher, Niles, CA
+Oct - Dec 2013 / June - Aug 2017
+
+
+
+Multicom Ent. Group, Project Media Inventory Asst., Los Angeles, CA
+Sept. 2016 - March 2017
+
+
+
+Cole Video, Project Manager/Video Editor, Sonora, CA
+Jan 2014 - July 2016
+
+​
+
+​Canyon Cinema, Film Inspection/Promotional Media Intern, San Francisco, CA
+April - Dec 2013
 
 ​
 
