@@ -9,17 +9,17 @@ _last updated summer 2024_
 ## Education
 
 *   University of California, Los Angeles, CA
-- Masters of Library and Information Science, Media Archival Studies - June 2019
+ - Masters of Library and Information Science, Media Archival Studies - June 2019
 
 
 
 *   University of California, Santa Cruz, CA
-- B.A. Film and Digital Media, Production Concentration - June 2012
+ - B.A. Film and Digital Media, Production Concentration - June 2012
 
 
 
 *   Chabot-Las Positas Community College, Livermore/Hayward, CA
-- A.A. Liberal Arts - June 2010
+ - A.A. Liberal Arts - June 2010
 
 
 
