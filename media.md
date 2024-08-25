@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+## Media
 
-_yay_
+[Looking for Animals](https://www.lookingforanimals.com/)
 
 [back](./)
 
