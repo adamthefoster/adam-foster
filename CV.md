@@ -2,37 +2,34 @@
 layout: default
 ---
 
-**Education**
+## Education
 
 University of California, Los Angeles, CA
-  
-Masters of Library and Information Science, Media Archival Studies - June 2019
+> Masters of Library and Information Science, Media Archival Studies - June 2019
 
 
 
 University of California, Santa Cruz, CA
-
-B.A. Film and Digital Media, Production Concentration - June 2012
+> B.A. Film and Digital Media, Production Concentration - June 2012
 
 
 
 Chabot-Las Positas Community College, Livermore/Hayward, CA
-
-A.A. Liberal Arts - June 2010
+> A.A. Liberal Arts - June 2010
 
 
 
 
 ​
-**Professional Experience** 
+## Professional Experience 
 
 Academy Film Archive, Public Access Specialist, Los Angeles, CA 
-2022 - Present
+> 2022 - Present
 
 ​
 
 Academy Film Archive, Film Traffic Coordinator, Los Angeles, CA
-2019 - 2022
+> 2019 - 2022
 
 ​
 
