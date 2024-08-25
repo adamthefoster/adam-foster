@@ -4,6 +4,8 @@ layout: default
 
 # CV
 
+_last updated summer 2024_
+
 ## Education
 
 University of California, Los Angeles, CA
@@ -56,17 +58,12 @@ Cole Video, Project Manager/Video Editor, Sonora, CA
 > Jan 2014 - July 2016
 
 ​Canyon Cinema, Film Inspection/Promotional Media Intern, San Francisco, CA
-> April - Dec 2013
-
-​
+> April - Dec 2013​
 
 ​​
 
 ​
-
-​
-
-   Awards, Fellowships & Scholarships 
+Awards, Fellowships & Scholarships 
 
 ​
 
