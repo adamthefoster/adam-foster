@@ -84,7 +84,7 @@ _last update: Summer 2024_
 ​
 
 ​
-## ​Presentations & Publications-
+## ​Presentations & Publications
 
 *   State of the Field - Panel - Sustainability of the Preservation of Digital Media, Getty Expert Meeting - Feb. 2024
 
