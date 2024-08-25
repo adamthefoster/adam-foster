@@ -84,7 +84,6 @@ _last update: Summer 2024_
 ​
 
 ​
-
 ## ​Presentations & Publications-
 
 *   State of the Field - Panel - Sustainability of the Preservation of Digital Media, Getty Expert Meeting - Feb. 2024
@@ -106,7 +105,6 @@ _last update: Summer 2024_
 *   AMIA Film Advocacy Task Force - Video presentation - Nov 2014
 
 *   Canyon Cinema Foundation - a service organization for local geniuses - Canyon Cinema video presentation - 2013
-
 ​
 
 ​
@@ -146,7 +144,6 @@ _last update: Summer 2024_
 2018    Orphan Film Symposium, Queens, NY
 
 2017    Annual AMIA Conference, New Orleans, LA​
-
 ​
 
 
@@ -161,20 +158,17 @@ _last update: Summer 2024_
 
 *   Society of Motion Picture & Television Engineers (SMPTE), 2018​​
 
-Student Affiliations
 
-*   Co-President - UCLA AMIA Student Chapter, 2018 - 2019
 
-*   Treasurer - UCLA AMIA Student Chapter, 2017 - 2018
-
-*   Vice President - UCLA Special Libraries Association (SLA) Student Chapter, 2017 - 2018
-
-*   Webmaster; Instructional Services Liaison - UCLA Student Governing Board, 2017 - 2018
+- Student Affiliations
+  - Co-President - UCLA AMIA Student Chapter, 2018 - 2019
+  - Treasurer - UCLA AMIA Student Chapter, 2017 - 2018
+  - Vice President - UCLA Special Libraries Association (SLA) Student Chapter, 2017 - 2018
+  - Webmaster; Instructional Services Liaison - UCLA Student Governing Board, 2017 - 2018
 
 ​
 
 ​
-
 ## ​Technical Skills 
 
 - ​​​​Media Conservation & Repair
@@ -200,7 +194,6 @@ Student Affiliations
 ​
 
 ​
-
 ## Volunteer Work ​​​
 *   Home Movie Day, Film Inspection/MC, Los Angeles, CA, 2016 - Present
   
