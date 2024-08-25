@@ -157,9 +157,9 @@ _last update: Summer 2024_
 
   - Conference Program Committee, AMIA, 2020 - present
 
-​- American Institute for Conservation of Historic and Artistic Works (AIC), 2019
+*   ​American Institute for Conservation of Historic and Artistic Works (AIC), 2019
 
-- Society of Motion Picture & Television Engineers (SMPTE), 2018​​
+*   Society of Motion Picture & Television Engineers (SMPTE), 2018​​
 
 Student Affiliations
 
