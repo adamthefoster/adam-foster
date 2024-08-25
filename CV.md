@@ -154,20 +154,21 @@ Cole Video, Project Manager/Video Editor, Sonora, CA
 ## Affiliations 
 *   Association of Moving Image Archivists (AMIA), 2016 - Present
 
-- Conference Program Committee, AMIA, 2020 - present
+  - Conference Program Committee, AMIA, 2020 - present
 
 ​*   American Institute for Conservation of Historic and Artistic Works (AIC), 2019
 
 ​*   Society of Motion Picture & Television Engineers (SMPTE), 2018​​
 
-​​​​
+Student Affiliations
+
 *   Co-President - UCLA AMIA Student Chapter, 2018 - 2019
 
-​*   Treasurer - UCLA AMIA Student Chapter, 2017 - 2018
+*   Treasurer - UCLA AMIA Student Chapter, 2017 - 2018
 
-​*   Vice President - UCLA Special Libraries Association (SLA) Student Chapter, 2017 - 2018
+*   Vice President - UCLA Special Libraries Association (SLA) Student Chapter, 2017 - 2018
 
-​*   Webmaster; Instructional Services Liaison - UCLA Student Governing Board, 2017 - 2018
+*   Webmaster; Instructional Services Liaison - UCLA Student Governing Board, 2017 - 2018
 
 ​
 
