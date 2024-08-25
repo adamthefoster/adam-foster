@@ -63,77 +63,55 @@ Cole Video, Project Manager/Video Editor, Sonora, CA
 ​​
 
 ​
-Awards, Fellowships & Scholarships 
+## Awards, Fellowships & Scholarships 
 
-​
+*   UCLA/Mellon Foundation Internship Project Recipient, Bob Baker Marionette Theater, 2018-2019
 
-UCLA/Mellon Foundation Internship Project Recipient, Bob Baker Marionette Theater, 2018-2019
+*   Rick Chase Foundation AMIA Scholarship, 2018
 
+*   MLIS Professional Programs Committee Travel Fund, IS Dept., UCLA, CA, 2018​
 
+*   UCSC Dean’s Award, outstanding research, Morally Straight: A Portrait of Gay Eagle Scouts, 2013
 
-Rick Chase Foundation AMIA Scholarship, 2018
+*   Porter College Fellowship in F.D.M., 2012
 
+*   Porter College Undergraduate Fellowship Award, 2012
 
+*   Audience Choice Award, Feature Doc - Exit 426: Watsonville, Santa Cruz Film Festival, 2012
 
-MLIS Professional Programs Committee Travel Fund, IS Dept., UCLA, CA, 2018​
-
-
-
-UCSC Dean’s Award, outstanding research, Morally Straight: A Portrait of Gay Eagle Scouts, 2013
-
-
-
-Porter College Fellowship in F.D.M., 2012
-
-
-
-Porter College Undergraduate Fellowship Award, 2012
-
-
-
-Audience Choice Award, Feature Doc - Exit 426: Watsonville, Santa Cruz Film Festival, 2012
-
-​
-
-Eagle Scout, 2007
+*   Eagle Scout, 2007
 
 ​
 
 ​
 
-​
+## ​Presentations & Publications-
 
-   Presentations & Publications-
+*   State of the Field - Panel - Sustainability of the Preservation of Digital Media, Getty Expert Meeting - Feb. 2024
 
-​
+*   Why We Are Recoloring Dead Birds - Video - Becoming Artsy, The Getty Youtube Channel – Aug. 2023
 
-State of the Field - Panel - Sustainability of the Preservation of Digital Media, Getty Expert Meeting - Feb. 2024
+*   Light as a Feather: Tunable LEDs and Feather Recoloration - Presentation - Society for the Preservation of Natural History Collections (SPNHC), San Francisco, CA, June 1, 2023
 
-Why We Are Recoloring Dead Birds - Video - Becoming Artsy, The Getty Youtube Channel – Aug. 2023
+*   Introduction to Film Repair - Workshop - 4th Archaeology of Moving Image Media Workshop, Los Angeles, CA - July 2019
 
-Light as a Feather: Tunable LEDs and Feather Recoloration - Presentation - Society for the Preservation of Natural History Collections (SPNHC), San Francisco, CA, June 1, 2023
+*   Presentation - Bastard Film Encounter, Baltimore, MD, April 25 - 27, 2019​
 
-Introduction to Film Repair - Workshop - 4th Archaeology of Moving Image Media Workshop, Los Angeles, CA - July 2019
+*   Preserving Place: Moving the Bob Baker Marionette Theater - Article - Performance! SAA Newsletter, Spring 2019​
 
-Presentation - Bastard Film Encounter, Baltimore, MD, April 25 - 27, 2019​
+*   The Bob Baker Marionette Theater: Archiving with Oral Histories - Presentation - AMIA Annual Conference, Portland, OR, Nov 2018​
 
-Preserving Place: Moving the Bob Baker Marionette Theater - Article - Performance! SAA Newsletter, Spring 2019​
+*   The French One Panel - Blog - 21st Century Fox Archives, Sept 19, 2019
 
-The Bob Baker Marionette Theater: Archiving with Oral Histories - Presentation - AMIA Annual Conference, Portland, OR, Nov 2018​
+*   AMIA Film Advocacy Task Force - Video presentation - Nov 2014
 
-The French One Panel - Blog - 21st Century Fox Archives, Sept 19, 2019
-
-AMIA Film Advocacy Task Force - Video presentation - Nov 2014
-
-Canyon Cinema Foundation - a service organization for local geniuses - Canyon Cinema video presentation - 2013
+*   Canyon Cinema Foundation - a service organization for local geniuses - Canyon Cinema video presentation - 2013
 
 ​
 
 ​
 
-   Workshops, Conferences & Symposia 
-
-​​
+## Workshops, Conferences & Symposia 
 
 2023    AMIA Annual Conference, Tulsa, OK
 
@@ -171,91 +149,67 @@ Canyon Cinema Foundation - a service organization for local geniuses - Canyon C
 
 ​
 
-​
-
-   Affiliations 
-
-​​
-
-Association of Moving Image Archivists (AMIA), 2016 - Present
-
-Conference Program Committee, AMIA, 2020 - present
 
 ​
+## Affiliations 
 
-American Institute for Conservation of Historic and Artistic Works (AIC), 2019
+*   Association of Moving Image Archivists (AMIA), 2016 - Present
 
-​
+> Conference Program Committee, AMIA, 2020 - present
 
-Society of Motion Picture & Television Engineers (SMPTE), 2018​​
+​*   American Institute for Conservation of Historic and Artistic Works (AIC), 2019
+
+​*   Society of Motion Picture & Television Engineers (SMPTE), 2018​​
 
 ​​​​
 
 ​
 
-Co-President - UCLA AMIA Student Chapter, 2018 - 2019
+*   Co-President - UCLA AMIA Student Chapter, 2018 - 2019
 
-​
+​*   Treasurer - UCLA AMIA Student Chapter, 2017 - 2018
 
-Treasurer - UCLA AMIA Student Chapter, 2017 - 2018
+​*   Vice President - UCLA Special Libraries Association (SLA) Student Chapter, 2017 - 2018
 
-​
-
-Vice President - UCLA Special Libraries Association (SLA) Student Chapter, 2017 - 2018
-
-​
-
-Webmaster; Instructional Services Liaison - UCLA Student Governing Board, 2017 - 2018
+​*   Webmaster; Instructional Services Liaison - UCLA Student Governing Board, 2017 - 2018
 
 ​
 
 ​
 
-​
+## ​Technical Skills 
 
-   Technical Skills 
+​​​​Media Conservation & Repair
 
-​​​​
+- 10 years of experience handling magnetic tape and standard film gauges for exhibition & conservation
 
-Media Conservation & Repair
+- A-D strips, flatbeds, rewinds, synchronizers, tape/cement/preservation splices
 
-10 years of experience handling magnetic tape and standard film gauges for exhibition & conservation
-
-A-D strips, flatbeds, rewinds, synchronizers, tape/cement/preservation splices
-
-Video tape deck servicing
-
-​
+- Video tape deck servicing
 
 Playback & Digitization
 
-Trained in small gauge film projection and scanning
+- Trained in small gauge film projection and scanning
 
-Experience building video racks patching between variety of video and audio formats and utilizing Black Magic and AJA capture cards
-
-​
+- Experience building video racks patching between variety of video and audio formats and utilizing Black Magic and AJA capture cards
 
 Databases
 
-Airtable, Adlib, Axiell, CONTENTdm, FileMaker, Libib, Omeka, Voyager
+- Airtable, Adlib, Axiell, CONTENTdm, FileMaker, Libib, Omeka, Voyager
 
-​
+​Digital Software
 
-Digital Software
+- Adobe Suite
 
-Adobe Suite
+- Final Cut Suite
 
-Final Cut Suite
+- MPEG Streamclip, Quicktime, VLC
 
-MPEG Streamclip, Quicktime, VLC
+- Experience with command line, FFmpeg
 
-Experience with command line, FFmpeg
+​Office / Operating Systems
 
-​
-
-Office / Operating Systems
-
-PC and Mac, Microsoft Office Suite, Google Suite
+- PC and Mac, Microsoft Office Suite, Google Suite
 
 ​
 
