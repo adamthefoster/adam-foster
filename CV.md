@@ -2,15 +2,12 @@
 layout: default
 ---
 
-   Education 
+**Education**
 
-        University of California, Los Angeles
+  University of California, Los Angeles
+  Masters of Library and Information Science, Media Archival Studies - June 2019
 
-Masters of Library and Information Science, Media Archival Studies - June 2019
-
-​
-
-        University of California, Santa Cruz
+​University of California, Santa Cruz
 
 B.A. Film and Digital Media, Production Concentration - June 2012
 
