@@ -26,55 +26,35 @@ Chabot-Las Positas Community College, Livermore/Hayward, CA
 Academy Film Archive, Public Access Specialist, Los Angeles, CA 
 > 2022 - Present
 
-​
-
 Academy Film Archive, Film Traffic Coordinator, Los Angeles, CA
 > 2019 - 2022
 
-​
-
 Academy Film Archive, Film Preservation Intern, Los Angeles, CA
-Jan - June 2019
-
-​
+> Jan - June 2019
 
 Bob Baker Marionette Theater, Head Archivist, Los Angeles, CA
-2017 - 2020
-
-​
+> 2017 - 2020
 
 UCLA, GSE&IS Information Studies Lab, Lab Assistant III, Los Angeles, CA
-Sept 2017 - June 2019
-
-
+> Sept 2017 - June 2019
 
 UCLA Film & TV Archive, Collections Intern, Santa Clarita, CA
-June - Dec 2018
-
-
+> June - Dec 2018
 
 20th Century Fox, Archives Intern, Century City, CA
-June - Aug 2018
-
-​
+> June - Aug 2018
 
 Essanay Film Museum, Collections/Researcher, Niles, CA
-Oct - Dec 2013 / June - Aug 2017
-
-
+> Oct - Dec 2013 / June - Aug 2017
 
 Multicom Ent. Group, Project Media Inventory Asst., Los Angeles, CA
-Sept. 2016 - March 2017
-
-
+> Sept. 2016 - March 2017
 
 Cole Video, Project Manager/Video Editor, Sonora, CA
-Jan 2014 - July 2016
-
-​
+> Jan 2014 - July 2016
 
 ​Canyon Cinema, Film Inspection/Promotional Media Intern, San Francisco, CA
-April - Dec 2013
+> April - Dec 2013
 
 ​
 
