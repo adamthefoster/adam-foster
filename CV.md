@@ -214,8 +214,7 @@ Databases
 ​
 
 ## Volunteer Work ​​​
-
-​*   Home Movie Day, Film Inspection/MC, Los Angeles, CA, 2016 - Present
+*   Home Movie Day, Film Inspection/MC, Los Angeles, CA, 2016 - Present
 *   The Reel Thing XLIII, Los Angeles, Registration, 2018 - 2019
 *   Hugh M. Hefner Moving Image Archive, Student Volunteer, School of Cinema Arts, USC, Los Angeles, CA, 2018 - 2019
 *   VES/SMPTE Meeting Hollywood: The Business, Science, and Art of Film and TV Restoration and Preservation, Registration, July 17, 2018
