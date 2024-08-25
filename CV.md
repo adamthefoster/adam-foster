@@ -177,37 +177,25 @@ Student Affiliations
 
 ## ​Technical Skills 
 
-​​​​Media Conservation & Repair
+- ​​​​Media Conservation & Repair
+ - 10 years of experience handling magnetic tape and standard film gauges for exhibition & conservation
+ - A-D strips, flatbeds, rewinds, synchronizers, tape/cement/preservation splices
+ - Video tape deck servicing
+ - Playback & Digitization
+ - Trained in small gauge film projection and scanning
+ - Experience building video racks patching between variety of video and audio formats and utilizing Black Magic and AJA capture cards
 
-- 10 years of experience handling magnetic tape and standard film gauges for exhibition & conservation
+- Databases
+ - Airtable, Adlib, Axiell, CONTENTdm, FileMaker, Libib, Omeka, Voyager
 
-- A-D strips, flatbeds, rewinds, synchronizers, tape/cement/preservation splices
+- ​Digital Software
+ - Adobe Suite
+ - Final Cut Suite
+ - MPEG Streamclip, Quicktime, VLC
+ - Experience with command line, FFmpeg
 
-- Video tape deck servicing
-
-Playback & Digitization
-
-- Trained in small gauge film projection and scanning
-
-- Experience building video racks patching between variety of video and audio formats and utilizing Black Magic and AJA capture cards
-
-Databases
-
-- Airtable, Adlib, Axiell, CONTENTdm, FileMaker, Libib, Omeka, Voyager
-
-​Digital Software
-
-- Adobe Suite
-
-- Final Cut Suite
-
-- MPEG Streamclip, Quicktime, VLC
-
-- Experience with command line, FFmpeg
-
-​Office / Operating Systems
-
-- PC and Mac, Microsoft Office Suite, Google Suite
+- ​Office / Operating Systems
+ - PC and Mac, Microsoft Office Suite, Google Suite
 
 ​
 
