@@ -8,4 +8,4 @@ Hello! I'm a media archivist working in Public Access. I specialize in the creat
 
 My research focuses on the conservation and preservation challenges of exhibition objects. I'm currently working with new lighting techniques used to restore color faded museum objects in order to apply them to the exhibition of color faded film collections.
 
-This site compiles my relevant work/projects, as well as helpful resources for those interested in similar areas of moving image archives and preservation.
+This site compiles my relevant archival work/projects and more, as well as helpful resources for those interested in similar areas of moving image archives and preservation.
