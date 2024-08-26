@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[*CV*](./another-page.html)  ------  [*Projects*](./another-page.html)  ------  [Media](./another-page.html)  ------  [Friends](./another-page.html)
+CV (./another-page.html)  ------  [*Projects*](./another-page.html)  ------  [Media](./another-page.html)  ------  [Friends](./another-page.html)
 
 There should be whitespace between paragraphs.
 
