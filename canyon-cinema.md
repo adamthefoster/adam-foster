@@ -8,5 +8,5 @@ Through 2013, I volunteered at Canyon Cinema through where I learned to inspect 
 
 {% include youtube.html id="oETX2HSPyvU" %}
 
-[back](./)
+[back](./projects)
 
