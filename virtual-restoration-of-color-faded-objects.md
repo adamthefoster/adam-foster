@@ -13,5 +13,7 @@ In 2023, the Getty's YouTube program, Becoming Artsy, created the following shor
 {% include youtube.html id="Klk0xvCPK7k" %}
 
 
-[back](./)
+
+
+[back](./projects)
 
