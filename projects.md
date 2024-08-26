@@ -18,7 +18,7 @@ Below you will find a list of my current and past archives realate work.
 
 
 
-*  ## [Canyon Cinema](.canyon-cinema.html)
+*  ## [Canyon Cinema](./canyon-cinema.html)
 
 
 
