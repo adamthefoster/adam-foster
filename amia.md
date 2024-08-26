@@ -14,7 +14,7 @@ Below are some of the projects I've contributed to at AMIA's annual conferences.
 
 **Film Advocacy Task Force Highlight Reel**
 
-In 2014 I created the following video for the AMIA Film Advocacy Task Force used at that years annual meeting to highlight their year of accomplishments.
+*  In 2014 I created the following video for the AMIA Film Advocacy Task Force used at that years annual meeting to highlight their year of accomplishments.
 
 {% include youtube.html id="lM_kjo8kL6s" %}
 
