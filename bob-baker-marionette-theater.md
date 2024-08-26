@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-_In Sprint 2019, the Society of American Archivists (SAA) published the following artical authored by myself and Brianna Toth on their Performance! newsletter._
+_In Spring 2019, the Society of American Archivists (SAA) published the following artical authored by myself and Brianna Toth on their Performance! newsletter._
 
 # P E R F O R M A N C E !  Spring 2019
 
