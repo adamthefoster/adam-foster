@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## About
 
 Hello! I'm a media archivist working in Public Access. I specialize in the creation and delivery of digital moving image assets for exhibition, research, and licensing requests at the Academy Film Archive. I have 9+ years of experience working in collection’s management at arts non-profits, distributors, government, and studio archives.
 
