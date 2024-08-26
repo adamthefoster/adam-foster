@@ -15,6 +15,8 @@ _Brianna Toth is the Assistant Archivist for the Bob Baker Marionette Theater. A
 
 > “At the Bob Baker Marionette Theater, we see the world as a birthday cake: baked in imagination, frosted in culture and tradition, served on a silver platter of history, sprinkled with stardust, and topped with whipped cream of delight.” – Alex Evans, Executive Director
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 **WELCOME TO THE BOB BAKER MARIONETTE THEATER** 
 
 Nestled below a freeway overpass at a precarious intersection in Los Angeles, the Bob Baker Marionette Theater (BBMT) has hosted performances for the young and old since 1963. The space itself is not only a theater, but also a warehouse (where 3,000 puppets are stored), a party room (used for children’s birthdays, events and work-shops), an office (for the part-time directors and staff), in addition to an archives (previously used as a creative studio and library by Bob Baker during his lifetime). Intentionally built to function like one of the old Hollywood studios that Bob often worked for, the archives includes a wealth of paratextual material he used to create his characters and design the Theater’s productions. Today, these materials are used to understand how to execute existing productions, as well as perform and create new ones. For this reason, the reference materials within the archives are constantly moving in and out of the space, sometimes even being transformed into completely new work.
