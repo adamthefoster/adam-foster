@@ -10,7 +10,7 @@ Below you will find a list of my current and past archives realate work.
 
 
 
-*  ## [Association of Moving Image Archivists](./amia.html)
+![AMIA](/assets/img/AMIA.png) ## [Association of Moving Image Archivists](./amia.html)
 
 
 
