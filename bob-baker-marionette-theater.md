@@ -73,5 +73,7 @@ Although moving poses numerous challenges, it has also provided many benefits du
 
 Taking on the new roles of archivists within an organization that has never had one before, we’ve learned many lessons through trial and error. Although we have both managed components of collections within an archives previously, neither of us have been solely in charge of an entire archives. For this reason, we both feel extremely fortunate to have each other as sounding boards, and also to share the workload. We believe that having each other for professional and emotional support while managing such a personal collection, has been paramount to our success in laying a sustainable foundation for the theater’s library and archives. 
 
+![Theater](https://github.com/adamthefoster/adam-foster/blob/main/assets/img/bbmt.png)
+
 [back](./projects)
 
