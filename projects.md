@@ -10,8 +10,9 @@ Below you will find a list of my current and past archives realate work.
 
 
 
+## [AMIA](./amia.html)
 
-## AMIA
+
 
 ## Bob Baker Marionette Theater
 
