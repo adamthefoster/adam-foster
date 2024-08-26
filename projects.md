@@ -6,19 +6,19 @@ layout: default
 
 Below you will find a list of my current and past archives realate work.
 
-## [Virtual restoration of color faded objects](./virtual-restoration-of-color-faded-objects.html)
+*  ## [Virtual restoration of color faded objects](./virtual-restoration-of-color-faded-objects.html)
 
 
 
-## [Association of Moving Image Archivists](./amia.html)
+*  ## [Association of Moving Image Archivists](./amia.html)
 
 
 
-## [Bob Baker Marionette Theater](./bob-baker-marionette-theater.html)
+*  ## [Bob Baker Marionette Theater](./bob-baker-marionette-theater.html)
 
 
 
-## Canyon Cinema
+*  ## [Canyon Cinema](.canyon-cinema.html)
 
 
 
