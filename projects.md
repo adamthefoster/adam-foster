@@ -6,7 +6,7 @@ layout: default
 
 Below you will find a list of my current and past archives realate work.
 
-## Virtual restoration of color faded objects
+## [CV](./virtual-restoration-of-color-faded-objects.html)
 
 ## AMIA
 
