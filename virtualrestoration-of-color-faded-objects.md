@@ -10,7 +10,7 @@ Our team has prestented at the Society of the Preservation of Natural HIstory Co
 
 In 2023, the Getty's YouTube program, Becoming Artsy, created the following short video introducing the various concepts and details of our research.
 
-[![Watch the video](https://img.youtube.com/vi/Klk0xvCPK7k/default.jpg)](https://www.youtube.com/Klk0xvCPK7k)
+[![Watch the video](https://img.youtube.com/vi/Klk0xvCPK7k/default.jpg)](https://www.youtube.com/watch?v=Klk0xvCPK7k)
 
 
 [back](./)
