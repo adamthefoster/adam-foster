@@ -178,7 +178,7 @@ _last update: Summer 2024_
 
 - Playback & Digitization
   - Trained in small gauge film projection and scanning
-  - Experience building video racks patching between variety of video and audio formats and utilizing Black Magic and AJA capture cards for digitization
+  - Experience building video racks patching between variety of video and audio formats incorporating Black Magic and AJA capture cards for digitization
 
 - Databases
   - Airtable, Adlib, Axiell, CONTENTdm, FileMaker, Libib, Omeka, Voyager
