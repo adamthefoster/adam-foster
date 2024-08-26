@@ -14,7 +14,9 @@ Below you will find a list of my current and past archives realate work.
 
 
 
-## Bob Baker Marionette Theater
+## [Bob Baker Marionette Theater]{./bob-baker-marionette-theater.html}
+
+
 
 ## Canyon Cinema
 
