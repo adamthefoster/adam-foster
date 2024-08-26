@@ -15,11 +15,13 @@ _Brianna Toth is the Assistant Archivist for the Bob Baker Marionette Theater. A
 
 > “At the Bob Baker Marionette Theater, we see the world as a birthday cake: baked in imagination, frosted in culture and tradition, served on a silver platter of history, sprinkled with stardust, and topped with whipped cream of delight.” – Alex Evans, Executive Director
 
-![Theater](https://github.com/adamthefoster/adam-foster/blob/main/assets/img/bbmt12.png))
+![Theater](https://github.com/adamthefoster/adam-foster/blob/main/assets/img/bbmt12.png)
 
 **WELCOME TO THE BOB BAKER MARIONETTE THEATER** 
 
 Nestled below a freeway overpass at a precarious intersection in Los Angeles, the Bob Baker Marionette Theater (BBMT) has hosted performances for the young and old since 1963. The space itself is not only a theater, but also a warehouse (where 3,000 puppets are stored), a party room (used for children’s birthdays, events and work-shops), an office (for the part-time directors and staff), in addition to an archives (previously used as a creative studio and library by Bob Baker during his lifetime). Intentionally built to function like one of the old Hollywood studios that Bob often worked for, the archives includes a wealth of paratextual material he used to create his characters and design the Theater’s productions. Today, these materials are used to understand how to execute existing productions, as well as perform and create new ones. For this reason, the reference materials within the archives are constantly moving in and out of the space, sometimes even being transformed into completely new work.
+
+![Theater](https://github.com/adamthefoster/adam-foster/blob/main/assets/img/bbmt11.png)![Theater](https://github.com/adamthefoster/adam-foster/blob/main/assets/img/bbmt10.png)
 
 Walking into the Bob Baker Marionette Theater one realizes that nothing is static within this whimsical space. Envisioned, built and maintained with the imagination, dedication and self-determination of a small revolving group of puppeteers, people often comment that they feel transported out of time or everyday life when they are at the theater. Before a show, puppeteers rush around vacuuming the carpet, meticulously decorating tables with streamers, brewing fresh coffee in the kitchen, and rehearsing their routines backstage. Upon closer examination of the space, the ceiling lights are made from coffee cans, disco balls hang next to gaudy chandeliers, walls are painted to look like stage curtains and the floor of the courtyard is painted green with daisies. Everywhere you look there is a creative solution or inventive construction that personifies the can-do attitude that has carried the theater along for over 55 years. For a theater that exists in continual motion, and is now officially moving its entire holdings and operation to a new physical location, how do archivists preserve the original order of this theater’s history? 
 
