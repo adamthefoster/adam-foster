@@ -15,7 +15,7 @@ _Brianna Toth is the Assistant Archivist for the Bob Baker Marionette Theater. A
 
 > “At the Bob Baker Marionette Theater, we see the world as a birthday cake: baked in imagination, frosted in culture and tradition, served on a silver platter of history, sprinkled with stardust, and topped with whipped cream of delight.” – Alex Evans, Executive Director
 
-![bbmt12](https://github.com/adamthefoster/adam-foster/blob/main/assets/img/bbmt12.png)
+![bbmt12](/main/assets/img/bbmt12.png)
 
 **WELCOME TO THE BOB BAKER MARIONETTE THEATER** 
 
