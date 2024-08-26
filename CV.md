@@ -175,9 +175,10 @@ _last update: Summer 2024_
   - 10 years of experience handling magnetic tape and standard film gauges for exhibition & conservation
   - A-D strips, flatbeds, rewinds, synchronizers, tape/cement/preservation splices
   - Video tape deck servicing
-  - Playback & Digitization
+
+- Playback & Digitization
   - Trained in small gauge film projection and scanning
-  - Experience building video racks patching between variety of video and audio formats and utilizing Black Magic and AJA capture cards
+  - Experience building video racks patching between variety of video and audio formats and utilizing Black Magic and AJA capture cards for digitization
 
 - Databases
   - Airtable, Adlib, Axiell, CONTENTdm, FileMaker, Libib, Omeka, Voyager
