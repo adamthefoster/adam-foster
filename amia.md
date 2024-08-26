@@ -4,7 +4,10 @@ layout: default
 
 ## Association of Moving Image Archivists
 
-AMIA hosts an annual meeting every year. Below are some of the projects I've contributed to.
+Below are some of the projects I've contributed to at AMIA's annual conferences.
+
+
+
 
 **Presentations**
 
