@@ -196,7 +196,7 @@ _last update: Summer 2024_
 
 ​
 ## Volunteer Work ​​​
-*   Home Movie Day, Film Inspection/MC, Los Angeles, CA, 2016 - Present
+*   Home Movie/Video Day, Inspection/MC, Los Angeles, CA, 2016 - Present
   
 *   The Reel Thing XLIII, Los Angeles, Registration, 2018 - 2019
   
