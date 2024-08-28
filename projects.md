@@ -8,7 +8,7 @@ Below you will find a list of my current and past archives realate work.
 
 *  ## [Virtual restoration of color faded objects](./virtual-restoration-of-color-faded-objects.html)
 
-> ![cardinal](/assets/img/Cardinal.gif)
+> ![Cardinal](/assets/img/Cardinal.gif){ .image25percent }
 
 *  ## [Association of Moving Image Archivists](./amia.html)
 
