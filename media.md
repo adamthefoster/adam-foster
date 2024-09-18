@@ -6,19 +6,19 @@ layout: default
 
 ***
 
-Taking photos ->
+Photos ->
 
 ***
 
-Music making ->
+Music ->
 
 ***
 
-On Public Access Television [-> Looking for Animals](https://www.lookingforanimals.com/)
+Public Access Television [-> Looking for Animals](https://www.lookingforanimals.com/)
 
 ***
 
-At UCSC ->
+UCSC ->
 
 ***
 
