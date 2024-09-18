@@ -4,25 +4,23 @@ layout: default
 
 # Projects
 
-***
-
 A list of some current and past archives realate work.
 
 ***
 
-*  ## [Virtual restoration of color faded objects](./virtual-restoration-of-color-faded-objects.html)
+Conservation and Restoration Research [-> Virtual restoration of color faded objects](./virtual-restoration-of-color-faded-objects.html)
 
 ***
 
-*  ## [Association of Moving Image Archivists](./amia.html)
+Professional Organizations [-> Association of Moving Image Archivists](./amia.html)
 
 ***
 
-*  ## [Bob Baker Marionette Theater](./bob-baker-marionette-theater.html)
+Community Archives [-> Bob Baker Marionette Theater](./bob-baker-marionette-theater.html)
 
 ***
 
-*  ## [Canyon Cinema](./canyon-cinema.html)
+Artist Films [-> Canyon Cinema](./canyon-cinema.html)
 
 
 
