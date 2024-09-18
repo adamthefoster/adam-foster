@@ -6,11 +6,11 @@ layout: default
 
 ***
 
-Photos
+Taking photos ->
 
 ***
 
-Music
+Music making ->
 
 ***
 
@@ -18,7 +18,7 @@ A puppet show on Public Access Television: [Looking for Animals](https://www.loo
 
 ***
 
-UCSC
+UCSC ->
 
 ***
 
