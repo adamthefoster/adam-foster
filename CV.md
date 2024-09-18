@@ -4,7 +4,11 @@ layout: default
 
 # CV
 
+***
+
 _last update: Summer 2024_
+
+***
 
 ## Education
 
