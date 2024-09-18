@@ -6,25 +6,22 @@ layout: default
 
 ***
 
-<dl>
-<dt>Conservation and Restoration Research</dt> 
-<dd> [-> Virtual restoration of color faded objects](./virtual-restoration-of-color-faded-objects.html) </dd>
-</dl>
+### Conservation and Restoration Research
+
+*   [-> Virtual restoration of color faded objects](./virtual-restoration-of-color-faded-objects.html)
 
 ***
 
-<dl>
-<dt>Professional Organizations</dt> 
-<dd> [-> Association of Moving Image Archivists](./amia.html) </dd>
-</dl>
+### Professional Organizations
+
+*   [-> Association of Moving Image Archivists](./amia.html)
 
 ***
 
-<dl>
-<dt>Community Archives & Artist Spaces</dt> 
-<dd> [-> Bob Baker Marionette Theater](./bob-baker-marionette-theater.html) </dd>
-<dd> [-> Canyon Cinema](./canyon-cinema.html) </dd>
-</dl>
+### Community Archives & Spaces
+
+*   [-> Bob Baker Marionette Theater](./bob-baker-marionette-theater.html)
+*   [-> Canyon Cinema](./canyon-cinema.html)
 
 ***
 
