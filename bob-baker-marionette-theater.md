@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-_Regarding my work at the [Bob Baker Marionette Theater](https://www.bobbakermarionettetheater.com/), the Society of American Archivists (SAA) published the [following artical](https://www2.archivists.org/sites/all/files/Performance%20Newsletter%202019%20(1)_1.pdf) authored by [Brianna Toth](https://www.brianna-toth.com/) and myself in their Sprint 2019 Performance! newsletter._
+_Regarding my work at the [Bob Baker Marionette Theater](https://www.bobbakermarionettetheater.com/), the Society of American Archivists (SAA) published the [following artical](https://www2.archivists.org/sites/all/files/Performance%20Newsletter%202019%20(1)_1.pdf) authored by [Brianna Toth](https://www.brianna-toth.com/) and myself in their Spring 2019 Performance! newsletter._
 
 ***
 
