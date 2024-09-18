@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-_In Spring 2019, the Society of American Archivists (SAA) published the [following artical](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www2.archivists.org/sites/all/files/Performance%20Newsletter%202019%20(1)_1.pdf) authored by [Brianna Toth](https://www.brianna-toth.com/) and myself on their Performance! newsletter._
+_In Spring 2019, the Society of American Archivists (SAA) published the [following artical](https://www2.archivists.org/sites/all/files/Performance%20Newsletter%202019%20(1)_1.pdf)) authored by [Brianna Toth](https://www.brianna-toth.com/) and myself on their Performance! newsletter._
 
 ***
 
