@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## Media
+# Media
+
+***
 
 [Looking for Animals](https://www.lookingforanimals.com/)
 
