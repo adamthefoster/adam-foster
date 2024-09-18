@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Virtual restoration of color faded objects
+# Virtual restoration of color faded objects
 
 Since 2020, I've been researching alongside Vincent Laudato Beltran (Scientist, Getty Conservation Institute) and Ellen Pearlstein (Professor Emerita, UCLA) to virtually recolor faded feathers and faded bird specimens. 
 
