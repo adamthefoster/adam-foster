@@ -2,9 +2,11 @@
 layout: default
 ---
 
-## Projects
+# Projects
 
-Below you will find a list of my current and past archives realate work.
+***
+
+A list of some current and past archives realate work.
 
 *  ## [Virtual restoration of color faded objects](./virtual-restoration-of-color-faded-objects.html)
 
