@@ -14,11 +14,11 @@ Music making ->
 
 ***
 
-A puppet show on Public Access Television: [Looking for Animals](https://www.lookingforanimals.com/)
+On Public Access Television: [Looking for Animals](https://www.lookingforanimals.com/)
 
 ***
 
-UCSC ->
+At UCSC ->
 
 ***
 
