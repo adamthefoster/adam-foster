@@ -12,4 +12,3 @@ My research focuses on the conservation and preservation challenges of exhibitio
 
 This site compiles my relevant archives work/projects and more, as well as helpful resources for those interested in similar areas of moving image archives and preservation.
 
-![tvstaticfilm](/assets/img/tvstaticfilm.png)
