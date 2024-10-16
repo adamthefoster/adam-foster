@@ -64,29 +64,8 @@ _last update: Summer 2024_
 ​**Canyon Cinema, Film Inspection/Promotional Media Intern,** San Francisco, CA
 > April - Dec 2013​
 
-​​
 
 ​
-## Awards, Fellowships & Scholarships 
-
-*   UCLA/Mellon Foundation Internship Project Recipient, Bob Baker Marionette Theater, 2018-2019
-
-*   Rick Chase Foundation AMIA Scholarship, 2018
-
-*   MLIS Professional Programs Committee Travel Fund, IS Dept., UCLA, CA, 2018​
-
-*   UCSC Dean’s Award, outstanding research, Morally Straight: A Portrait of Gay Eagle Scouts, 2013
-
-*   Porter College Fellowship in F.D.M., 2012
-
-*   Porter College Undergraduate Fellowship Award, 2012
-
-*   Audience Choice Award, Feature Doc - Exit 426: Watsonville, Santa Cruz Film Festival, 2012
-
-*   Eagle Scout, 2007
-
-​
-
 ​
 ## ​Presentations & Publications
 
@@ -115,7 +94,29 @@ _last update: Summer 2024_
 *   Canyon Cinema Foundation - a service organization for local geniuses - Canyon Cinema video presentation - 2013
 ​
 
+
+
+## Awards, Fellowships & Scholarships 
+
+*   UCLA/Mellon Foundation Internship Project Recipient, Bob Baker Marionette Theater, 2018-2019
+
+*   Rick Chase Foundation AMIA Scholarship, 2018
+
+*   MLIS Professional Programs Committee Travel Fund, IS Dept., UCLA, CA, 2018​
+
+*   UCSC Dean’s Award, outstanding research, Morally Straight: A Portrait of Gay Eagle Scouts, 2013
+
+*   Porter College Fellowship in F.D.M., 2012
+
+*   Porter College Undergraduate Fellowship Award, 2012
+
+*   Audience Choice Award, Feature Doc - Exit 426: Watsonville, Santa Cruz Film Festival, 2012
+
+*   Eagle Scout, 2007
 ​
+
+
+
 
 ## Workshops, Conferences & Symposia 
 
