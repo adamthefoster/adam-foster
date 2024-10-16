@@ -65,6 +65,7 @@ _last update: Summer 2024_
 > April - Dec 2013​
 
 
+
 ​
 ​
 ## ​Presentations & Publications
@@ -92,7 +93,9 @@ _last update: Summer 2024_
 *   AMIA Film Advocacy Task Force - Video presentation - Nov 2014
 
 *   Canyon Cinema Foundation - a service organization for local geniuses - Canyon Cinema video presentation - 2013
+
 ​
+
 
 
 
@@ -114,6 +117,7 @@ _last update: Summer 2024_
 
 *   Eagle Scout, 2007
 ​
+
 
 
 
