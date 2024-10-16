@@ -90,6 +90,10 @@ _last update: Summer 2024_
 ​
 ## ​Presentations & Publications
 
+*   Virtual restoration of feather color using tunable LEDs - Presentation - Western Association for Art Conservation (WAAC) 50th Annual Meeting - Los Angeles, CA - Oct. 2024
+
+*   How to Wright a Travel Grant - Workshop - UCLA AMIA Student Chapter/T.A.P.E. - Los Angeles, CA - Oct. 2024
+
 *   State of the Field - Panel - Sustainability of the Preservation of Digital Media, Getty Expert Meeting - Feb. 2024
 
 *   Why We Are Recoloring Dead Birds - Video - Becoming Artsy, The Getty Youtube Channel – Aug. 2023
